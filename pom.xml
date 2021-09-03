@@ -20,7 +20,7 @@
     </modules>
 
     <properties>
-        <yami.shop.version>0.0.1-SNAPSHOT</yami.shop.version>
+        <yami.shop.version>0.0.1-SNA1PSHOT</yami.shop.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.plugin.version>3.7.0</maven.compiler.plugin.version>
